@@ -3,12 +3,12 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /home #name of GitHub repository
+url: "www.basiledubois.com" #custom url to be used instead of GitHub repository
+email: "basile.dubois@tse-fr.eu"
 
 # Pagination
-paginate: 4
+paginate: 20
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
@@ -18,10 +18,7 @@ linkedin: "#"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+
 
 
 # Markdown
@@ -47,13 +44,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+  teaching:
+    output: true
+    permalink: /teaching/:name/
+
 
 sass:
   sass_dir: /assets/css/_sass

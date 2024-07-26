@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: Research Statement
+description: A few words about my research output, and my current research agenda
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

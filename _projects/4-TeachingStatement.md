@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Project 5
-description: another project
+title: Teaching statement
+description: Classes I would be comfortable teaching
 ---
-
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header

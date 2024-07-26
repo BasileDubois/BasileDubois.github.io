@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Working Papers
+description: If you are curious about the rest of my research
 ---
+
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
