@@ -3,8 +3,8 @@
 title: Your Name
 description: subtitle | affiliations | motto
 
-baseurl: /home #name of GitHub repository
-url: "www.basiledubois.com" #custom url to be used instead of GitHub repository
+baseurl: /root #name of GitHub repository
+#url: "www.basiledubois.com" #custom url to be used instead of GitHub repository
 email: "basile.dubois@tse-fr.eu"
 
 # Pagination
