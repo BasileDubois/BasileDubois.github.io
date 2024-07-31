@@ -1,8 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
-
+title: Basile Dubois
+description: PhD Candidate | Toulouse School of Economics 
 baseurl:  #name of GitHub repository
 url: "https://basiledubois.com" #custom url to be used instead of GitHub repository
 email: "basile.dubois@tse-fr.eu"
