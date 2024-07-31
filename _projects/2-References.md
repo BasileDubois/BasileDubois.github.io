@@ -1,7 +1,7 @@
 ---
 layout: post
 title: References
-description: Contact information for referees
+description: Contact information of my referees
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
