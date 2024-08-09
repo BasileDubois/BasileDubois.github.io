@@ -1,148 +1,44 @@
 ---
 layout: post
-title: Project 18721387789379
-description: another project
+title: About me
+description: Learn who I am as a person
 permalink: /AboutMe/
 
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
-
-H1 Header
-============
-
-Do maths work? Let's check out 
-
-$\sigma 4$
-
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+{%   assign today = site.time | date: '%s'      %}
+{%   assign start = '12-03-1994 04:00:00' | date: '%s'  %}
+{%   assign secondsSince = today | minus: start     %}
+{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60     %}
+{%   assign daysSince = hoursSince | divided_by: 24  %}
+{%   assign YearsSince = daysSince | divided_by: 365  %}
 
 
-H2 Header
+
+I am a {{YearsSince}} years old, **staunchly Parisian** financial economist. I am currently pursuing a PhD at [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"}. 🎓 \
+I was invited as a visiting officer of research at [Columbia University Business School](https://business.columbia.edu/){:target="_blank"} during the fall semester of 2022. \
+Before that, I obtained a dual-degree undergrad in  Economics and Mathematics at [Université Panthéon-Assas](https://assas-universite.fr/fr){:target="blank} and [Sorbonne Université](https://sciences.sorbonne-universite.fr){:target="blank}, and a joint Economics and Applied Mathematics masters from [Sciences Po](https://www.sciencespo.fr/department-economics/){:target="blank} and the [Erasmus Mundus quantitative economics program](https://master-economics-qem.eu){:target="blank}. 📚
+
+Research philosophy
 ------------
 
-Here's a numbered list:
+I like to take an empirical look at policy questions by combining insights from economic theory and the opinion of practitioners. Bridging the gap between practitioners' beliefs and economic theory predictions often leads to interesting, policy-relevant research. 
 
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
+During the course of my PhD in Toulouse, I have developed an expertise building and working with large datasets, as well as taking the empirical industrial organization methodology to Financial Economics. A lot of questions in Economics ultimately boil down to supply and demand, and empirical IO tools are uniquely suited to address that. 
 
 
-A horizontal rule follows.
+Global outlook
+---------
 
-***
+My upbringing in multicultural Paris, as well as my experiences working for the [OECD](https://www.oecd.org/en.html){:target="blank} and living in Barcelona, Utrecht and NYC during the course of my studies gave me a strong belief in the power of diversity, as well as the importance european and international cooperation. I value working with and learning from people of diverse cultures. From my standpoint, interacting with different cultural perspectives helps avoid narrow-mindedness and fosters inclusivity.  🫱🏿‍🫲🏻
 
-Here's a definition list:
+I also believe in the [climate emergency](https://www.unep.org/facts-about-climate-emergency){:target="blank}. As such, I have been working as a consultant for the OECD on research about the financing of the climate transition. You can check it out [here](){:target="blank}. Ensuring that the climate transition is properly financed while minimising the adverse effects of policy intervention is surprisingly difficult. Economics, despite being quantitatively grounded, remains a political science and cannot be separated from politics. It therefore is our duty as researchers to contribute to the ongoing debates. 
 
-apples
-  : Good for making applesauce.
+Hobbies and lifestyle
+--------
 
-oranges
-  : Citrus!
+My 7 years stint in Toulouse left me with a fondness for the mountains, and a burning passion for rugby 🏉. On top 14 match days, you can definitely find me watching the [Stade Toulousain](https://www.stadetoulousain.fr/){:target="blank} play!
+I also like to spend my energy burning calories. Living with [spondyloarthritis](https://rheumatology.org/patients/spondyloarthritis){:target="blank}, a type of inflammatory arthritis affecting the spine and joints, since I was 11 has taught me resilience and the importance of maintaining a balanced lifestyle: I enjoy running, cycling, and spending a few weeks each year hiking in the mountains. 🏔️
 
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
+I am an avid reader with a strong appetite for popular academic literature, particularly in the fields of economics, history, geopolitics, and diplomacy. Please do ask me about my current reads—I'm always happy to share! ! I also welcome your reading recommendations. 🤓 \
+Finally, 🚨 NERD ALERT 🚨, I'm happy playing board games, and enjoy painting miniatures and playing video games once in a while. 
