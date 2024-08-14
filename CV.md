@@ -1,146 +1,67 @@
 ---
 layout: post
-title: Project 1
-description: another project
+title: CV
+description: Abridged CV
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+# [Link to full CV]({{ site.url }}/downloads/BDCV.pdf)
 
-H1 Header
-============
+## Basile Dubois
 
-Do maths work? Let's check out 
-
-$\sigma 4$
-
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+**PhD Candidate, Financial Economics**  
+Toulouse School of Economics  
 
 
-H2 Header
-------------
+**Contact Information**  
+Toulouse School of Economics  
+1 Esplanade de l’Université, Toulouse, France  
+📞 +33 6 86 51 39 55  
+✉️ basile.dubois@tse-fr.eu
 
-Here's a numbered list:
+## Education
+- **PhD in Economics**, Toulouse School of Economics, \
+2019 - 2025  
+- **MRes in Economics**, Toulouse School of Economics,  \
+2018 - 2019  
+- **MSc in Applied Mathematics**, Université Paris 1 Panthéon Sorbonne, \
+ 2016 - 2018  
+- **Bachelor in Mathematics**, Université Paris 6 UPMC,  \
+2013 - 2016  
+- **Bachelor in Economics**, Université Paris 2 Panthéon Assas, \
+ 2013 - 2016  
 
- 1. first item
- 2. second item
- 3. third item
+## Research Interests
+- **Primary**: Monetary Policy, Financial Intermediation, Corporate Finance
+- **Secondary**: Empirical IO, Applied IO
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
+## Selected Working Papers
+- [Banking under Large Excess Reserves (JMP)]()
+  - Co-authored with Paul Rintamaki (Aalto University).  Using a structural model of banking, we quantify the trade-offs imposed by excess reserves on banks' lending and risk-taking activities. We compute counterfactual estimates of alternative policies as well as the implications of quantitative tightening.
 
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
+- [Inelastic Markets and the Transmission of Asset Purchases]()  
+  - This paper investigates the transmission mechanisms of quantitative easing (QE) through institutional bondholders' portfolio adjustments. 
+ 
 
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
+- [The Determinants of Director Selection: Relationships in the Director Market]()  
+  - This paper studies the role of pre-existing relationships on board appointments. I use a consideration sets framework to show that candidates with prior associations to board members are less likely to be appointed, despite being more likely to be considered. 
 
 
-A horizontal rule follows.
 
-***
+## Academic Exchanges & Awards
+- **Columbia Business School**: Staff Officer of Research, Fall 2022
+- **Banque de France/CASD**: Awarded access to confidential banking data, 2023
+- **Banque de France/TSE**: 8-month research scholarship, 2024
+- **Exchange Scholarships**: IDEX Excellency Grant (Utrecht University), Erasmus Grant (Universitat Autonòma de Barcelona)
 
-Here's a definition list:
+## Technical Skills
+- **Languages**: French 🇫🇷 (native), English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (fluent), Spanish 🇪🇸 (A1), German 🇪🇸 (A1)
+- **Programming**: R(⭐⭐⭐), Python(⭐⭐★), Julia(⭐⭐★), Stata(⭐★★)
 
-apples
-  : Good for making applesauce.
+## Teaching Experience
+- **Corporate Finance, Masters**: Course coordinator, lecturer, TA (Fall 2020)
+- **Corporate Finance, Introductory**: TA (Spring 2022 - Spring 2023)
+- **Microeconomics, Introductory**: TA (Spring 2022 - Spring 2023)
 
-oranges
-  : Citrus!
+## Work Experience
+- **OECD Consultancy**: Assessing effects of climate policies on capital allocation across financing channels (March 2024 - September 2024)
 
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
