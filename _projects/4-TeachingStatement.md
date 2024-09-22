@@ -5,4 +5,4 @@ description: Teaching philosophy, classes I would be comfortable teaching
 ---
 
 
-TBD
+COMING SOON
