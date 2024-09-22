@@ -54,7 +54,7 @@ Toulouse School of Economics
 - **Exchange Scholarships**: IDEX Excellency Grant (Utrecht University), Erasmus Grant (Universitat Autonòma de Barcelona)
 
 ## Technical Skills
-- **Languages**: French 🇫🇷 (native), English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (fluent), Spanish 🇪🇸 (A1), German 🇪🇸 (A1)
+- **Languages**: French 🇫🇷 (native), English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (fluent), Spanish 🇪🇸 (A1), German 🇩🇪 (A1)
 - **Programming**: R(⭐⭐⭐), Python(⭐⭐★), Julia(⭐⭐★), Stata(⭐★★)
 
 ## Teaching Experience
