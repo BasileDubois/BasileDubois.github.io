@@ -19,4 +19,4 @@ You can check out my [research]({{site.baseurl}}/blog/){:target="blank} or have 
 
 Do not hesitate to [contact me](mailto:basile.dubois@tse-fr.eu) if you have any question, comment or thought about my research. Discussing ideas is 90% of the fun of Academia!
 
-In the spirit of scientific transparency, I try to make the code for my projects available whenever possible. You will find the code for a given project at the end of its related blog post in the [research]({{site.baseurl}}/blog/) section. 
+You will find the code for a given project at the end of its related blog post in the [research]({{site.baseurl}}/blog/) section. 
