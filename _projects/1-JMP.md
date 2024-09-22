@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Job Market Paper
-description: Lorem Ipsum
+description: 
 redirect: https://google.com
 ---
 

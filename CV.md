@@ -14,6 +14,7 @@ description: Abridged CV
 ### **Contact Information**  
 
 ✉️ basile.dubois@tse-fr.eu
+
 📞 +33 6 86 51 39 55  
 
 Toulouse School of Economics  
@@ -55,7 +56,7 @@ Toulouse School of Economics
 - **Exchange Scholarships**: IDEX Excellency Grant (Utrecht University), Erasmus Grant (Universitat Autonòma de Barcelona)
 
 ## Technical Skills
-- **Languages**: French 🇫🇷 (native), English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 (fluent), Spanish 🇪🇸 (A1), German 🇩🇪 (A1)
+- **Languages**: French 🇫🇷 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (A1), German 🇩🇪 (A1)
 - **Programming**: R(⭐⭐⭐), Python(⭐⭐★), Julia(⭐⭐★), Stata(⭐★★)
 
 ## Teaching Experience

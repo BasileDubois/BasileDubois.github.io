@@ -8,6 +8,8 @@ description: A few words about my research output, and my current research agend
 
 I am a Financial Economist with research interests spanning IO-Finance, Unconventional Monetary Policy and Corporate Finance. Methodologically, I like to answer policy-related questions using structural models and rich micro data. My approach is to leverage my institutional knowledge and keen interest in the financial press to identify discrepancies between theoretical predictions, observed outcomes, and practitioners' beliefs.
 
+[Jump to research agenda](#research-agenda)
+
 Current research 
 ------------ 
 
