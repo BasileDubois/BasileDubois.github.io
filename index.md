@@ -7,9 +7,7 @@ profile:
 published: true
 ---
 
-**<u>This page is a work in progress and will be ready by September 1st 2024. Please have another look then!</u>**
-
-Hello there, welcome to my personal page! I am a PhD Candidate from [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"}. In September, I am be on the 2024-2025 Finance and Economics Job Market. I'm looking forward to meeting you! 
+Hello there, welcome to my personal page! I am a PhD Candidate from [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"}. I am on the 2024-2025 Finance and Economics Job Market. I'm looking forward to meeting you! 
 
 I exploit strucural models and demand systems to explore empirical economic questions in financial intermediation and corporate governance.  
 
