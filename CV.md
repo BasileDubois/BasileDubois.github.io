@@ -12,10 +12,12 @@ description: Abridged CV
 
 
 ### **Contact Information**  
+
+✉️ basile.dubois@tse-fr.eu
+📞 +33 6 86 51 39 55  
+
 Toulouse School of Economics  
 1 Esplanade de l’Université, Toulouse, France  
-📞 +33 6 86 51 39 55  
-✉️ basile.dubois@tse-fr.eu
 
 ## Education
 - **PhD in Economics**, Toulouse School of Economics, \
