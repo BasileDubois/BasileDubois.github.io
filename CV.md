@@ -9,10 +9,9 @@ description: Abridged CV
 ## Basile Dubois
 
 **PhD Candidate, Financial Economics**  
-Toulouse School of Economics  
 
 
-**Contact Information**  
+### **Contact Information**  
 Toulouse School of Economics  
 1 Esplanade de l’Université, Toulouse, France  
 📞 +33 6 86 51 39 55  
