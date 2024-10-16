@@ -19,6 +19,6 @@ description: Contact information of my referees
 
 
 
-<ins>**Referee**</ins>: [Ulrich Hege](https://www.tse-fr.eu/people/ulrich-hege)
+<ins>**Referee**</ins>: [Jean-Charles Rochet](https://www.tse-fr.eu/people/jean-charles-rochet)
 -   Professor of Finance  @ [Toulouse School of Economics](https://www.tse-fr.eu/)
--  [Email ✉️](mailto:ulrich.hege@tse-fr.eu)
+-  [Email ✉️](mailto:jean-charles.rochet@tse-fr.eu)
