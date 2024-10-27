@@ -13,7 +13,7 @@ description: Abridged CV
 
 ### **Contact Information**  
 
-✉️ basile.dubois@tse-fr.eu
+✉️ [basile.dubois@tse-fr.eu](mailto:basile.dubois@tse-fr.eu)
 
 📞 +33 6 86 51 39 55  
 
@@ -33,8 +33,8 @@ Toulouse School of Economics
  2013 - 2016  
 
 ## Research Interests
-- **Primary**: Monetary Policy, Financial Intermediation, Corporate Finance
-- **Secondary**: Empirical IO, Applied IO
+- **Primary**: Credit Markets, Monetary Policy, Corporate Finance
+- **Secondary**: Empirical IO
 
 ## Selected Working Papers
 - [Banking under Large Excess Reserves (JMP)]()
