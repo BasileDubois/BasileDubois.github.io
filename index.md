@@ -11,7 +11,7 @@ Hello there, welcome to my personal page! I am a PhD Candidate from [Toulouse Sc
 
 I exploit **strucural models and demand systems** to explore empirical economic questions in **financial intermediation** and **corporate governance**.  
 
-My [Job Market Paper]({{site.baseurl}}/projects/5-researchstatement/){:target="blank}, written jointly with [Paul Rintamaki](https://sites.google.com/view/paulrintamaki), explores the interaction of Basel III regulation with large scale asset purchases, also known as Quantitative Easing, and its resulting consequences. 
+My [Job Market Paper]({{site.baseurl}}/projects/5-researchstatement/){:target="blank}, written jointly with [Paul Rintamäki](https://sites.google.com/view/paulrintamaki), explores the interaction of Basel III regulation with large scale asset purchases, also known as Quantitative Easing, and its resulting consequences. 
 
 You can check out my [research]({{site.baseurl}}/blog/){:target="blank} or have a look at my [research statement]({{site.baseurl}}/projects/5-researchstatement/) for further information. You will find the code for a given project at the end of its related blog post in the [research]({{site.baseurl}}/blog/) section. 
 

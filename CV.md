@@ -20,7 +20,7 @@ description: Abridged CV
 Toulouse School of Economics  
 1 Esplanade de l’Université, Toulouse, France  
 
-## Education
+### Education
 - **PhD in Economics**, Toulouse School of Economics, \
 2019 - 2025  
 - **MRes in Economics**, Toulouse School of Economics,  \
@@ -32,13 +32,13 @@ Toulouse School of Economics
 - **Bachelor in Economics**, Université Paris 2 Panthéon Assas, \
  2013 - 2016  
 
-## Research Interests
+### Research Interests
 - **Primary**: Credit Markets, Monetary Policy, Corporate Finance
 - **Secondary**: Empirical IO
 
-## Selected Working Papers
+### Selected Working Papers
 - [Banking under Large Excess Reserves (JMP)]()
-  - Co-authored with Paul Rintamaki (Aalto University).  Using a structural model of banking, we quantify the trade-offs imposed by excess reserves on banks' lending and risk-taking activities. We compute counterfactual estimates of alternative policies as well as the implications of quantitative tightening.
+  - Co-authored with Paul Rintamäki (Aalto University).  Using a structural model of banking, we quantify the trade-offs imposed by excess reserves on banks' lending and risk-taking activities. We compute counterfactual estimates of alternative policies as well as the implications of quantitative tightening.
 
 - [Inelastic Markets and the Transmission of Asset Purchases]()  
   - This paper investigates the transmission mechanisms of quantitative easing (QE) through institutional bondholders' portfolio adjustments. 
@@ -49,21 +49,21 @@ Toulouse School of Economics
 
 
 
-## Academic Exchanges & Awards
+### Teaching Experience
+- **Corporate Finance, Masters**: Course coordinator, lecturer, TA (Fall 2020)
+- **Corporate Finance, Introductory**: TA (Spring 2022 - Spring 2023)
+- **Microeconomics, Introductory**: TA (Spring 2022 - Spring 2023)
+
+### Work Experience
+- **OECD Consultancy**: Assessing effects of climate policies on capital allocation across financing channels (March 2024 - September 2024)
+
+
+### Academic Exchanges & Awards
 - **Columbia Business School**: Staff Officer of Research, Fall 2022
 - **Banque de France/CASD**: Awarded access to confidential banking data, 2023
 - **Banque de France/TSE**: 8-month research scholarship, 2024
 - **Exchange Scholarships**: IDEX Excellency Grant (Utrecht University), Erasmus Grant (Universitat Autonòma de Barcelona)
 
-## Technical Skills
+### Technical Skills
 - **Languages**: French 🇫🇷 (native), English 🇬🇧 (fluent), Spanish 🇪🇸 (A1), German 🇩🇪 (A1)
 - **Programming**: R(⭐⭐⭐), Python(⭐⭐★), Julia(⭐⭐★), Stata(⭐★★)
-
-## Teaching Experience
-- **Corporate Finance, Masters**: Course coordinator, lecturer, TA (Fall 2020)
-- **Corporate Finance, Introductory**: TA (Spring 2022 - Spring 2023)
-- **Microeconomics, Introductory**: TA (Spring 2022 - Spring 2023)
-
-## Work Experience
-- **OECD Consultancy**: Assessing effects of climate policies on capital allocation across financing channels (March 2024 - September 2024)
-
