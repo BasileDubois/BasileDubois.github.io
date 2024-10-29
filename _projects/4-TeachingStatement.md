@@ -12,7 +12,6 @@ description: Teaching philosophy, classes I would be comfortable teaching
 Teaching Philosophy 
 ------------ 
 
-
 I prioritize student engagement and aim to create an inclusive, collaborative learning environment. The classroom is a space for interaction, where my role extends beyond imparting knowledge to mentoring students in their intellectual and personal growth. Recognizing that **students may face different challenges--whether personal, academic, or systemic--**I employ flexible teaching methods to accommodate diverse backgrounds, specifically through a flipped classroom approach and project-based learning.
 
 Following the general principles of a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), I provide the resources for students to study independently at their own pace and dedicate class time to clarifying concepts and collaborative problem-solving. I’ve seen this approach work particularly well when facing a diverse classroom, such as when I taught Introduction to Corporate Finance at Toulouse School of Management.
@@ -47,7 +46,10 @@ Students come from various cultural, socio-economic, and educational backgrounds
 
 - Support: I provide consistent, personalized feedback. In larger classes, I make the effort to provide detailed guidance through group projects, giving students a path to improve. I mentor both high-achieving and struggling students, guiding them toward resources and monitoring their progress.
  
+Conclusion
+-------------
 
+In sum, my teaching philosophy centers on engaging students and accommodating diversity in the classroom through flexible methods like flipped classrooms and project-based learning.  My experiences have demonstrated that these approaches are effective, both in traditional and online settings. 
 
 Teaching Portfolio
 ------------ 
@@ -74,10 +76,5 @@ I can also teach  **Empirical Methods** with a focus on structural approaches bo
 I can teach **Introductory Industrial Organization**, **Introductory Econometrics**, **Microeconomics**, and **Monetary Economics** at the undergraduate level. I enjoy teaching introductory courses because they challenge me to distill complex concepts into simple, understandable ideas. 
 
 
-
-Conclusion
--------------
-
-In sum, my teaching philosophy centers on engaging students and accommodating diversity in the classroom through flexible methods like flipped classrooms and project-based learning.  My experiences have demonstrated that these approaches are effective, both in traditional and online settings. 
 
 
