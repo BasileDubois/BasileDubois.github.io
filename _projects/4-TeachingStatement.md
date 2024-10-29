@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: default
 title: Teaching statement
 description: Teaching philosophy, classes I would be comfortable teaching
 ---
 
-#  <ins>Teaching Statement</ins>
-
 [Jump to teaching portfolio](#teaching-portfolio)
+
+
+#  <ins>Teaching Statement</ins>
 
 
 Teaching Philosophy 
@@ -51,8 +52,12 @@ Conclusion
 
 In sum, my teaching philosophy centers on engaging students and accommodating diversity in the classroom through flexible methods like flipped classrooms and project-based learning.  My experiences have demonstrated that these approaches are effective, both in traditional and online settings. 
 
-Teaching Portfolio
------------- 
+__________________
+__________________
+
+
+# <ins>Teaching Portfolio</ins>
+ 
 
 Given my research, my teaching experience, and the topics I interact with daily, I am prepared to teach classes in three main areas:
 
