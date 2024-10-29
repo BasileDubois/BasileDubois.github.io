@@ -15,7 +15,7 @@ permalink: /AboutMe/
 
 
 
-I am a {{YearsSince}} years old, staunchly Parisian 🥖 financial economist. I am currently pursuing a PhD at [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"} 🎓.  \
+I am a {{YearsSince}} years old, Parisian 🥖 financial economist. I am currently pursuing a PhD at [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"} 🎓.  \
 I was invited as a visiting officer of research at [Columbia University Business School](https://business.columbia.edu/){:target="_blank"} during the fall semester of 2022. \
 Before that, I obtained a dual-degree undergrad in  Economics and Mathematics at [Université Panthéon-Assas](https://assas-universite.fr/fr){:target="blank} and [Sorbonne Université](https://sciences.sorbonne-universite.fr){:target="blank}, and a joint Economics and Applied Mathematics masters from [Sciences Po](https://www.sciencespo.fr/department-economics/){:target="blank} and the [Erasmus Mundus quantitative economics program](https://master-economics-qem.eu){:target="blank} 📚. 
 
