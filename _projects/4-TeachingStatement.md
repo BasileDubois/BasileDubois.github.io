@@ -10,8 +10,7 @@ description: Teaching philosophy, classes I would be comfortable teaching
 #  <ins>Teaching Statement</ins>
 
 
-Teaching Philosophy 
------------- 
+## Teaching Philosophy 
 
 I prioritize student engagement and aim to create an inclusive, collaborative learning environment. The classroom is a space for interaction, where my role extends beyond imparting knowledge to mentoring students in their intellectual and personal growth. Recognizing that **students may face different challenges--whether personal, academic, or systemic--**I employ flexible teaching methods to accommodate diverse backgrounds, specifically through a flipped classroom approach and project-based learning.
 
@@ -21,8 +20,8 @@ Following the general principles of a [flipped classroom](https://en.wikipedia.o
 
 I focus on applying academic concepts to real-world scenarios as it prepares students for the challenges they will face in their careers. This is particularly true in finance, where students need to understand not only theoretical models but also the strategic decision-making processes that drive businesses.
 
-Teaching Experience 
------------- 
+## Teaching Experience 
+ 
 
 I have taught courses across various levels:
 
@@ -36,8 +35,8 @@ Midway through the term, the pandemic necessitated an abrupt shift to online tea
 Since 2022, I have been focusing on my research and look forward to returning to teaching.
 
 
-Inclusive and Supportive Learning Environments
-------------
+## Inclusive and Supportive Learning Environments
+
 
 Students come from various cultural, socio-economic, and educational backgrounds. It is crucial to recognize these differences and adapt accordingly. My strategy focuses on:
 
@@ -47,8 +46,7 @@ Students come from various cultural, socio-economic, and educational backgrounds
 
 - Support: I provide consistent, personalized feedback. In larger classes, I make the effort to provide detailed guidance through group projects, giving students a path to improve. I mentor both high-achieving and struggling students, guiding them toward resources and monitoring their progress.
  
-Conclusion
--------------
+## Conclusion
 
 In sum, my teaching philosophy centers on engaging students and accommodating diversity in the classroom through flexible methods like flipped classrooms and project-based learning.  My experiences have demonstrated that these approaches are effective, both in traditional and online settings. 
 
