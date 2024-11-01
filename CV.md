@@ -33,8 +33,8 @@ Toulouse School of Economics
  2013 - 2016  
 
 ### Research Interests
-- **Primary**: Credit Markets, Monetary Policy, Corporate Finance
-- **Secondary**: Empirical IO
+- **Primary**: Corporate finance, financial intermediation, banking
+- **Secondary**: Monetary policy, empirical IO
 
 ### Selected Working Papers
 - [Banking under Large Excess Reserves (JMP)]()
