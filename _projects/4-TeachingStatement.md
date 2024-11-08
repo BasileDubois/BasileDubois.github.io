@@ -62,7 +62,7 @@ Given my research, my teaching experience, and the topics I interact with daily,
 ### Finance:
 
 
-My expertise allows me to teach courses in the  **corporate finance**, **Banking**, **Corporate Governance**, and **Monetary Economics**. My research provides a strong foundation for delivering up-to-date, nuanced perspectives to students.
+My expertise allows me to teach courses in  **Corporate Finance**, **Banking**, **Corporate Governance**, and **Monetary Economics**. My research provides a strong foundation for delivering up-to-date, nuanced perspectives to students.
 
 I see finance as a fascinating field to teach that involves deep economics. Depending on the department, I can tailor courses to emphasize the interplay between finance and broader economic topics. My teaching approach is also well-suited for MBA programs that prioritize practical, real-world applications of financial theory. 
 
