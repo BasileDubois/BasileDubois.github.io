@@ -19,5 +19,5 @@ description: Contact information of my referees
 
 
  [Jean-Charles Rochet](https://www.tse-fr.eu/people/jean-charles-rochet)
--   Professor of Finance  @ [Toulouse School of Economics](https://www.tse-fr.eu/)
+-   Professor of Economics  @ [Toulouse School of Economics](https://www.tse-fr.eu/)
 -  [Email ✉️](mailto:jean-charles.rochet@tse-fr.eu)
