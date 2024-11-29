@@ -19,7 +19,7 @@ I am a {{YearsSince}} years old financial economist. I am currently pursuing a P
 I was invited as a visiting officer of research at [Columbia University Business School](https://business.columbia.edu/){:target="_blank"} during the fall semester of 2022. \
 Before that, I obtained a dual-degree undergrad in  Economics and Mathematics at [Université Panthéon-Assas](https://assas-universite.fr/fr){:target="blank} and [Sorbonne Université](https://sciences.sorbonne-universite.fr){:target="blank}, and a joint Economics and Applied Mathematics masters from [Sciences Po](https://www.sciencespo.fr/department-economics/){:target="blank} and the [Erasmus Mundus quantitative economics program](https://master-economics-qem.eu){:target="blank} 📚. 
 
-Research philosophy 🔍
+Research approach 🔍
 ------------
 
 I like to take an empirical look at policy questions by combining insights from economic theory and the opinion of practitioners. Bridging the gap between practitioners' beliefs and economic theory predictions often leads to interesting, policy-relevant research. 
@@ -40,4 +40,4 @@ Hobbies and lifestyle 🏃‍♂️
 My 7 years stint in Toulouse left me with a fondness for the mountains, and a burning passion for rugby 🏉. On top 14 match days, you can definitely find me cheering on the [Stade Toulousain](https://www.stadetoulousain.fr/){:target="blank}!
 I also like to spend my energy burning calories. Living with [spondyloarthritis](https://rheumatology.org/patients/spondyloarthritis){:target="blank} since I was 11--a degenerative inflammatory disease affecting the spine and joints--has taught me resilience and the importance of maintaining a balanced lifestyle: I enjoy running, cycling, and spending a few weeks each year hiking in the mountains. 🏔️
 
-I am an avid reader with a strong appetite for non-fiction and pop academic literature, particularly in the fields of economics, history, geopolitics, and diplomacy. Please do ask me about my current reads—I'm always happy to discuss and exchange recommendations! 🤓 \
+I am an avid reader with a strong appetite for non-fiction and pop academic literature, particularly in the fields of economics, history, geopolitics, and diplomacy. Please do ask me about my current reads—I'm always happy to discuss and exchange recommendations! 🤓 
