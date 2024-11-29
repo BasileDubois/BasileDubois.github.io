@@ -27,13 +27,6 @@ I like to take an empirical look at policy questions by combining insights from 
 Throughout my PhD in Toulouse, I have developed an expertise building and working with large datasets, as well as taking the empirical industrial organization methodology to financial economics. Many questions in  Finance revolve around supply and demand, and empirical IO tools are uniquely suited to address that. 
 
 
-Global outlook 🌍
----------
-
-My upbringing in multicultural Paris, as well as my experiences living in Barcelona 🇪🇸, Utrecht 🇳🇱, NYC 🗽, and working for the [OECD](https://www.oecd.org/en.html){:target="blank} during the course of my studies gave me a strong belief in the power of diversity, as well as the importance european and international cooperation 🫱🏿‍🫲🏻. I value working with and learning from people of diverse cultures. From my standpoint, interacting with different cultural perspectives helps avoid narrow-mindedness and fosters inclusivity.  
-
-The [climate emergency](https://www.unep.org/facts-about-climate-emergency){:target="blank} is an issue I take seriously 🌿🔥. Therefore, I have been working as a consultant for the OECD on research into financing the climate transition. You can check it out [here](){:target="blank}. Ensuring that the climate transition is properly financed while minimising the adverse effects of policy intervention is surprisingly difficult. As researchers,  we have a unique opportunity to meaningfully contribute to the ongoing debates 🗳️. Economics, despite being quantitatively grounded, is a social science and remains tightly connected to politics.
-
 Hobbies and lifestyle 🏃‍♂️
 --------
 
@@ -41,3 +34,10 @@ My 7 years stint in Toulouse left me with a fondness for the mountains, and a bu
 I also like to spend my energy burning calories. Living with [spondyloarthritis](https://rheumatology.org/patients/spondyloarthritis){:target="blank} since I was 11--a degenerative inflammatory disease affecting the spine and joints--has taught me resilience and the importance of maintaining a balanced lifestyle: I enjoy running, cycling, and spending a few weeks each year hiking in the mountains. 🏔️
 
 I am an avid reader with a strong appetite for non-fiction and pop academic literature, particularly in the fields of economics, history, geopolitics, and diplomacy. Please do ask me about my current reads—I'm always happy to discuss and exchange recommendations! 🤓 
+
+Global outlook 🌍
+---------
+
+My upbringing in multicultural Paris, as well as my experiences living in Barcelona 🇪🇸, Utrecht 🇳🇱, NYC 🗽, and working for the [OECD](https://www.oecd.org/en.html){:target="blank} during the course of my studies gave me a strong belief in the power of diversity, as well as the importance european and international cooperation 🫱🏿‍🫲🏻. I value working with and learning from people of diverse cultures. From my standpoint, interacting with different cultural perspectives helps avoid narrow-mindedness and fosters inclusivity.  
+
+The [climate emergency](https://www.unep.org/facts-about-climate-emergency){:target="blank} is an issue I take seriously 🌿🔥. Therefore, I have been working as a consultant for the OECD on research into financing the climate transition. You can check it out [here](){:target="blank}. Ensuring that the climate transition is properly financed while minimising the adverse effects of policy intervention is surprisingly difficult. As researchers,  we have a unique opportunity to meaningfully contribute to the ongoing debates 🗳️. Economics, despite being quantitatively grounded, is a social science and remains tightly connected to politics.
