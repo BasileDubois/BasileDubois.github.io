@@ -43,7 +43,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-
+  teaching:
+    output: true
+    permalink: /teaching/:name/
 
 sass:
   sass_dir: /assets/css/_sass
