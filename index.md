@@ -13,5 +13,5 @@ I exploit **structural models and demand systems** to explore empirical economic
 
 You can check out my [research]({{site.baseurl}}/blog/){:target="blank} or have a look at my [research statement]({{site.baseurl}}/ResearchStatement/) for further information. You will find the code for a given project at the end of its related blog post in the [research]({{site.baseurl}}/blog/) section. 
 
-Do not hesitate to [contact me](mailto:basile.dubois@tse-fr.eu) if you have any question, comment or thought about my research. Discussing ideas is 90% of the fun of Academia!
+Do not hesitate to [contact me](mailto:basile.dubois@mcgill.ca) if you have any question, comment or thought about my research. Discussing ideas is 90% of the fun of Academia!
 
