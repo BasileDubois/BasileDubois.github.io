@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hello there, welcome to my personal page! I am an Assistant Professor of Finance at [McGill Desautels Faculty of Management](https://www.mcgill.ca/desautels/research/specializations/finance) as an Assistant Professor.  I will defend my PhD at [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"} in October 2025.
+Hello there, welcome to my personal page! I am an Assistant Professor of Finance at [McGill Desautels Faculty of Management](https://www.mcgill.ca/desautels/research/specializations/finance).  I will defend my PhD at [Toulouse School of Economics](https://www.tse-fr.eu){:target="_blank"} in October 2025.
 
 I exploit **structural models and demand systems** to explore empirical economic questions in **financial intermediation** and **corporate governance**. My recent research explores the impact of large scale asset purchases, also known as Quantitative Easing, and its [interaction with bank regulation]({{site.url}}/downloads/JMP.pdf). 
 
